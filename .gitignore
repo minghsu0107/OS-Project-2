@@ -1,0 +1,14 @@
+.DS_Store
+*.ko
+*.o
+*.out
+*.mod
+*.cmd
+*.symvers
+*.swp
+*.swo
+sample
+tmp*
+test*
+OS-wang
+test.c
