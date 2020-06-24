@@ -1,4 +1,5 @@
 # OS-project-2
+Kernel Version: `5.3.0-28-generic`
 ### Usage
 Compile the code:
 ```bash
