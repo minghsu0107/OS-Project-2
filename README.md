@@ -1,4 +1,8 @@
 # OS-project-2
+Goal: Transfer multiple files from a place to another through kernel sockets, using read()/write() or mmap(). 
+
+We also experiment with different file sizes to analyze the performance. Please refer to `Report.md` for detailed explanations.
+
 Kernel Version: `5.3.0-28-generic`
 ### Usage
 Compile the code:
